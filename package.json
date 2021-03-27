@@ -1,0 +1,23 @@
+{
+  "name": "padrinhosMagicosApi",
+  "version": "1.0.0",
+  "description": "Atividade PWIII - API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusant/padrinhosMagicosApi.git"
+  },
+  "keywords": [],
+  "author": "Matheus Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusant/padrinhosMagicosApi/issues"
+  },
+  "homepage": "https://github.com/matheusant/padrinhosMagicosApi#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
