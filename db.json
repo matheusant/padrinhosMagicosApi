@@ -3,31 +3,31 @@
       {
         "id": 1,  
         "temporada": "0",
-        "episodios": "10",
+        "totalEpisodios": "10",
         "dataDeLancamento": "04/09/1998"
         },
       {
         "id": 2,  
         "temporada": "1",
-        "episodios": "6",
+        "totalEpisodios": "6",
         "dataDeLancamento": "30/03/2001"
         },
     {
         "id": 3,  
         "temporada": "2",
-        "episodios": "14",
+        "totalEpisodios": "14",
         "dataDeLancamento": "24/02/2002"
         },
     {
         "id": 4,  
         "temporada": "3",
-        "episodios": "20",
+        "totalEpisodios": "20",
         "dataDeLancamento": "27/04/2003"
         },
     {
         "id": 5,  
         "temporada": "4",
-        "episodios": "20",
+        "totalEpisodios": "20",
         "dataDeLancamento": "16/11/2003"
         }
     ],
@@ -92,7 +92,7 @@
             "id": 3,  
             "nome": "Wanda",
             "ocupacao": "Principal",
-            "descricao": "uma madrinha mágica de Timmy, sempre tenta dar conselhos corretos para ele, como pensar duas vezes antes de realizar qualquer desejo, mas nunca quer ouvir. O mesmo acontece com o Cosmo. Com sua inteligência, ela muitas vezes salva o dia. É casada com Cosmo e tem cabelos e olhos rosas."
+            "descricao": "Uma madrinha mágica de Timmy, sempre tenta dar conselhos corretos para ele, como pensar duas vezes antes de realizar qualquer desejo, mas nunca quer ouvir. O mesmo acontece com o Cosmo. Com sua inteligência, ela muitas vezes salva o dia. É casada com Cosmo e tem cabelos e olhos rosas."
             },
         {
             "id": 4,  
